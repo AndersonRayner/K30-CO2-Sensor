@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For USBHost
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+K30_CO2	KEYWORD1	sprintIRCO2Constructor
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2	
+calibrate	KEYWORD2
+t_calibrate	KEYWORD2
+update	KEYWORD2
+get_CO2	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
