@@ -1,1 +1,12 @@
 = K30 CO2 Sensor Library for Arduino =
+
+A simple Arduino driver for the K30 CO2 sensor running on UART (Serial).  Check out the examples script for usages.
+
+## Installation
+Copy (or clone) this repo into the Arduino libraries folder.
+
+## Pull Requests
+Always welcome!
+
+## Bugs / Issues
+Please report any bugs or issues in the Issues tab.  As always, the more information the better!
